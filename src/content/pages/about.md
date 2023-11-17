@@ -16,4 +16,7 @@ heroComponent:
     href: mailto:chris@codinginpublic.dev
     style: secondary
     text: Contact Me
+
+sampleComponent:
+  title: Hey! 👋
 ---

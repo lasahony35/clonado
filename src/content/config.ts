@@ -25,6 +25,7 @@ const pages = defineCollection({
     title: z.string(),
     description: z.string(),
     heroComponent: z.any(),
+    sampleComponent: z.any()
   }),
 });
 

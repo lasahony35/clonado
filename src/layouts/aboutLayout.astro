@@ -3,7 +3,7 @@
 import Hero from "../components/Hero/Hero.astro";
 import MainLayout from "./MainLayout.astro";
 import Sample from "../components/Sample/Sample.astro";
-const { title, description, heroComponent } = Astro.props.frontmatter;
+const { title, description, heroComponent, sampleComponent } = Astro.props.frontmatter;
 ---
 
 <MainLayout title={title} description={description}>
@@ -12,5 +12,5 @@ const { title, description, heroComponent } = Astro.props.frontmatter;
 
 
   <h2>sample component</h2>
-  <Sample bookshop:live {...}/>
+  <Sample bookshop:live {...sampleComponent}/>
 </MainLayout>
