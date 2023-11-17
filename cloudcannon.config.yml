@@ -5,10 +5,19 @@ collections_config:
   posts:
     path: src/content/blog
     output: false
+    description: ''
     icon: notes
+    _editables: {}
+    _enabled_editors:
+      - visual
+      - content
+    _inputs: {}
+    _select_data: {}
+    _structures: {}
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
+    schemas: {}
     schema_key: _schema
   site_data:
     path: src/data
@@ -21,7 +30,7 @@ collections_config:
   pages:
     path: src/content/pages
     output: true
-    url: "/[slug]/"
+    url: /[slug]/
     icon: notes
     _editables: {}
     _enabled_editors:
