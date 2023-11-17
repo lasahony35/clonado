@@ -9,23 +9,32 @@ collections_config:
     icon: notes
     preview:
     _editables:
-      content:
-        blockquote: false
-        bold: false
-        bulletedlist: false
+      image:
+        correct_orientation: true
+        expandable: true
+        height:
+        image_size_attributes: true
+        mime_type:
+        paths:
+        resize_style: contain
+        width:
+      block:
+        blockquote:
+        bold:
+        bulletedlist:
         center:
         code:
         copyformatting:
-        correct_orientation: false
+        correct_orientation: true
         embed: true
-        expandable: false
+        expandable:
         format:
         height:
-        horizontalrule: true
+        horizontalrule:
         image: true
         image_size_attributes: true
-        indent: true
-        italic: true
+        indent:
+        italic:
         justify:
         left:
         link:
@@ -47,7 +56,6 @@ collections_config:
         undo:
         width:
     _enabled_editors:
-      - visual
       - content
     _inputs: {}
     _select_data: {}
