@@ -10,69 +10,14 @@ collections_config:
     preview:
     _editables:
       image:
-        correct_orientation:
-        expandable:
-        height:
-        image_size_attributes: true
-        mime_type:
-        paths:
-        resize_style: contain
-        width:
-      content:
-        blockquote: true
-        bold: true
-        bulletedlist: true
-        center:
-        code: true
-        copyformatting: true
         correct_orientation: true
-        embed: true
         expandable: true
-        format:
-        height:
-        horizontalrule: true
-        image: true
+        height: 1
         image_size_attributes: true
-        indent: true
-        italic: true
-        justify:
-        left:
-        link:
         mime_type:
-        numberedlist:
-        outdent:
         paths:
-        redo:
-        removeformat:
         resize_style: contain
-        right:
-        snippet:
-        strike:
-        styles:
-        subscript:
-        superscript:
-        table:
-        underline:
-        undo:
         width:
-      link:
-        paths:
-          uploads:
-          dam_uploads:
-          dam_static:
-      text:
-        bold: true
-        copyformatting: true
-        italic: true
-        link: true
-        paths:
-        redo: true
-        removeformat: true
-        strike: true
-        subscript: true
-        superscript: true
-        underline: true
-        undo: true
     _enabled_editors:
       - visual
       - content

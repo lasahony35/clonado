@@ -12,9 +12,11 @@ description: >-
 draft: false
 category: CSS
 ---
-Bye duis ex aliqua eu officia eiusmod duis magna pariatur. Irure laborum qui aliqua nulla esse cillum laborum aliquip nulla elit. Id id Lorem duis irure cillum culpa. Nulla sint et aliqua velit do. Nulla sit sit proident consectetur enim ullamco aliqua in reprehenderit ullamco officia.
+---
 
-&lt;img height="400" width="800" src="https://picsum.photos/200/300" /&gt;
+* <div class="cms-embed" data-cms-embed="PGltZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjgwMCIgc3JjPSJodHRwczovL3BpY3N1bS5waG90b3MvMjAwLzMwMCIgLz4="><img height="400" width="800" src="https://picsum.photos/200/300" /></div>
+
+  &lt;img height="400" width="800" src="https://picsum.photos/200/300" /&gt;
 
 ## What is CSS?
 
