@@ -18,20 +18,20 @@ collections_config:
         paths:
         resize_style: contain
         width:
-      block:
+      content:
         blockquote:
         bold:
         bulletedlist:
         center:
         code:
         copyformatting:
-        correct_orientation: true
-        embed: true
+        correct_orientation:
+        embed:
         expandable:
         format:
         height:
         horizontalrule:
-        image: true
+        image:
         image_size_attributes: true
         indent:
         italic:
