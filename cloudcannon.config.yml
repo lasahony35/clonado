@@ -1,3 +1,10 @@
+generator:
+  metadata:
+    markdown: markdown-it
+    markdown-it:
+      html: true
+      linkify: true
+
 paths:
   uploads: public/images
   static: public
