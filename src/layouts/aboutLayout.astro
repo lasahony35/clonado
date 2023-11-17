@@ -2,10 +2,14 @@
 // component imports
 import Hero from "../components/Hero/Hero.astro";
 import MainLayout from "./MainLayout.astro";
-
+import Sample from "../components/Sample/Sample.astro";
 const { title, description, heroComponent } = Astro.props.frontmatter;
 ---
 
 <MainLayout title={title} description={description}>
   <Hero bookshop:live {...heroComponent} />
+
+
+  <h2>sample component</h2>
+  <Sample bookshop:live text="hola"/>
 </MainLayout>
