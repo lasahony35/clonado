@@ -7,6 +7,7 @@ collections_config:
     output: false
     description: ''
     icon: notes
+    preview:
     _editables:
       image:
         correct_orientation:
@@ -16,6 +17,43 @@ collections_config:
         mime_type:
         paths:
         resize_style: contain
+        width:
+      content:
+        blockquote:
+        bold:
+        bulletedlist:
+        center:
+        code: true
+        copyformatting:
+        correct_orientation:
+        embed: true
+        expandable:
+        format:
+        height:
+        horizontalrule:
+        image:
+        image_size_attributes: true
+        indent:
+        italic:
+        justify:
+        left:
+        link:
+        mime_type:
+        numberedlist:
+        outdent:
+        paths:
+        redo:
+        removeformat:
+        resize_style: contain
+        right:
+        snippet:
+        strike:
+        styles:
+        subscript:
+        superscript:
+        table:
+        underline:
+        undo:
         width:
     _enabled_editors:
       - visual
