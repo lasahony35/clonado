@@ -19,22 +19,22 @@ collections_config:
         resize_style: contain
         width:
       content:
-        blockquote:
-        bold:
-        bulletedlist:
+        blockquote: true
+        bold: true
+        bulletedlist: true
         center:
         code: true
-        copyformatting:
-        correct_orientation:
+        copyformatting: true
+        correct_orientation: true
         embed: true
-        expandable:
+        expandable: true
         format:
         height:
-        horizontalrule:
-        image:
+        horizontalrule: true
+        image: true
         image_size_attributes: true
-        indent:
-        italic:
+        indent: true
+        italic: true
         justify:
         left:
         link:
@@ -55,6 +55,24 @@ collections_config:
         underline:
         undo:
         width:
+      link:
+        paths:
+          uploads:
+          dam_uploads:
+          dam_static:
+      text:
+        bold: true
+        copyformatting: true
+        italic: true
+        link: true
+        paths:
+        redo: true
+        removeformat: true
+        strike: true
+        subscript: true
+        superscript: true
+        underline: true
+        undo: true
     _enabled_editors:
       - visual
       - content
