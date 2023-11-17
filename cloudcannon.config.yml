@@ -14,8 +14,11 @@ collections_config:
         expandable: true
         height:
         image_size_attributes: true
-        mime_type:
+        mime_type: image/jpeg
         paths:
+          uploads: public/images
+          dam_uploads:
+          dam_static:
         resize_style: contain
         width:
       content:
@@ -38,7 +41,7 @@ collections_config:
         justify:
         left:
         link:
-        mime_type:
+        mime_type: image/jpeg
         numberedlist:
         outdent:
         paths:
