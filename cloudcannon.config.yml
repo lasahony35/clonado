@@ -1,10 +1,3 @@
-generator:
-  metadata:
-    markdown: markdown-it
-    markdown-it:
-      html: true
-      linkify: true
-
 paths:
   uploads: public/images
   static: public
@@ -21,9 +14,96 @@ collections_config:
         expandable: true
         height: 1
         image_size_attributes: true
-        mime_type:
+        mime_type: image/jpeg
         paths:
         resize_style: contain
+        width: 1
+      text:
+        bold: true
+        copyformatting: true
+        italic: true
+        link: true
+        paths:
+        redo: true
+        removeformat: true
+        strike: true
+        subscript: true
+        superscript: true
+        underline: true
+        undo: true
+      content:
+        blockquote: true
+        bold: true
+        bulletedlist: true
+        center:
+        code:
+        copyformatting:
+        correct_orientation: true
+        embed: true
+        expandable: true
+        format:
+        height:
+        horizontalrule: true
+        image: true
+        image_size_attributes: true
+        indent:
+        italic: true
+        justify:
+        left:
+        link:
+        mime_type:
+        numberedlist:
+        outdent:
+        paths:
+        redo:
+        removeformat:
+        resize_style: contain
+        right:
+        snippet:
+        strike:
+        styles:
+        subscript:
+        superscript:
+        table:
+        underline:
+        undo:
+        width:
+      block:
+        blockquote: true
+        bold: true
+        bulletedlist: true
+        center:
+        code:
+        copyformatting:
+        correct_orientation:
+        embed: true
+        expandable: true
+        format:
+        height:
+        horizontalrule:
+        image: true
+        image_size_attributes: true
+        indent: true
+        italic: true
+        justify:
+        left:
+        link:
+        mime_type:
+        numberedlist:
+        outdent:
+        paths:
+        redo:
+        removeformat:
+        resize_style: contain
+        right:
+        snippet:
+        strike:
+        styles:
+        subscript:
+        superscript:
+        table:
+        underline:
+        undo:
         width:
     _enabled_editors:
       - visual

@@ -14,17 +14,13 @@ category: CSS
 ---
 ---
 
-* <div class="cms-embed" data-cms-embed="PGltZyBoZWlnaHQ9IjQwMCIgd2lkdGg9IjgwMCIgc3JjPSJodHRwczovL3BpY3N1bS5waG90b3MvMjAwLzMwMCIgLz4="><img height="400" width="800" src="https://picsum.photos/200/300" /></div>
-
-  &lt;img height="400" width="800" src="https://picsum.photos/200/300" /&gt;
+* &lt;img height="400" width="800" src="https://picsum.photos/200/300" /&gt;
 
 ## What is CSS?
 
 Ad ipsum velit sint enim exercitation mollit consequat elit mollit qui commodo aute. Laboris culpa voluptate aliquip incididunt duis. Cupidatat aliquip et sunt aute fugiat cupidatat irure voluptate. Occaecat officia et sunt.
 
 Officia tempor voluptate enim consequat cillum aute fugiat cupidatat incididunt magna labore in commodo. Eiusmod nostrud non deserunt. Incididunt excepteur pariatur magna. Proident aute ad in velit labore enim sit cillum ad mollit proident et qui. Esse sunt ullamco ullamco ipsum enim eu esse id eu exercitation laboris magna Lorem. Anim nostrud officia anim velit do exercitation labore mollit excepteur excepteur ex.
-
-<img height="400" width="800" src="https://picsum.photos/200/300" />
 
 \## You know?
 
@@ -33,6 +29,9 @@ Ipsum adipisicing exercitation dolor pariatur labore qui. Culpa cupidatat ea eli
 * Nulla ex velit adipisicing
 * proident fugiat deserunt sunt
 * eu adipisicing sint incididunt quis qui.
+* ![](/images/art-1.png)
+
+![](/images/post-4.jpg)
 
 Nulla fugiat labore duis ullamco reprehenderit excepteur laboris tempor ullamco aliquip laborum aliqua. Est tempor nisi magna ut elit pariatur commodo.
 
