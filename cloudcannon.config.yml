@@ -7,7 +7,16 @@ collections_config:
     output: false
     description: ''
     icon: notes
-    _editables: {}
+    _editables:
+      image:
+        correct_orientation:
+        expandable:
+        height:
+        image_size_attributes: true
+        mime_type:
+        paths:
+        resize_style: contain
+        width:
     _enabled_editors:
       - visual
       - content
