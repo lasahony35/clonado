@@ -21,7 +21,11 @@ In today's technology-driven world, coding has become an essential skill that em
 
 Coding fosters the development of critical thinking and problem-solving skills. It equips individuals with the ability to break down complex problems into smaller, manageable components and systematically analyze and solve them. By learning to code, one gains the mental dexterity to approach challenges with a structured and logical mindset. This skillset extends beyond the realm of programming and can be applied to various areas of life, enabling individuals to tackle problems efficiently and find innovative solutions.
 
-\### 2. Driving Technological Innovation
+\### 2. Driving Technological' Innovatio'n''
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YC6LqIYVHxI?si=xdyyX5yS1QqS0Nde" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+![jhjhj](/images/358781002-9778867728850901-2886474924500463951-n.jpg "mhjhj")
 
 Coding is at the heart of technological innovation. Every website, mobile application, and software relies on lines of code to function. By gaining coding proficiency, individuals play an active role in shaping the digital landscape and driving innovation forward. From developing groundbreaking apps to creating sophisticated algorithms, coding skills empower individuals to turn their ideas into reality and contribute to advancing technology and improving the lives of people worldwide.
 
