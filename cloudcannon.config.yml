@@ -25,13 +25,13 @@ collections_config:
         center:
         code:
         copyformatting:
-        correct_orientation:
-        embed:
+        correct_orientation: true
+        embed: true
         expandable:
         format:
         height:
         horizontalrule:
-        image:
+        image: true
         image_size_attributes: true
         indent:
         italic:
