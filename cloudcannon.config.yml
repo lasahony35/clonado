@@ -9,78 +9,19 @@ collections_config:
     icon: notes
     preview:
     _editables:
-      image:
-        correct_orientation: true
-        expandable: true
-        height: 1
-        image_size_attributes: true
-        mime_type: image/jpeg
-        paths:
-        resize_style: contain
-        width: 1
-      text:
-        bold: true
-        copyformatting: true
-        italic: true
-        link: true
-        paths:
-        redo: true
-        removeformat: true
-        strike: true
-        subscript: true
-        superscript: true
-        underline: true
-        undo: true
       content:
-        blockquote: true
-        bold: true
-        bulletedlist: true
+        blockquote: false
+        bold: false
+        bulletedlist: false
         center:
         code:
         copyformatting:
-        correct_orientation: true
+        correct_orientation: false
         embed: true
-        expandable: true
+        expandable: false
         format:
         height:
         horizontalrule: true
-        image: true
-        image_size_attributes: true
-        indent:
-        italic: true
-        justify:
-        left:
-        link:
-        mime_type:
-        numberedlist:
-        outdent:
-        paths:
-        redo:
-        removeformat:
-        resize_style: contain
-        right:
-        snippet:
-        strike:
-        styles:
-        subscript:
-        superscript:
-        table:
-        underline:
-        undo:
-        width:
-      block:
-        blockquote: true
-        bold: true
-        bulletedlist: true
-        center:
-        code:
-        copyformatting:
-        correct_orientation:
-        embed: true
-        expandable: true
-        format:
-        height:
-        horizontalrule:
         image: true
         image_size_attributes: true
         indent: true
